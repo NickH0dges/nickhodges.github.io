@@ -1,3 +1,16 @@
+<style>
+body {
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+</style>
+
+
 # Nick Hodges Portfolio
 
 Welcome to my professional portfolio! Here, you can learn more about my education, technical skills, and work experience in cybersecurity and IT. I am passionate about information security and eager to contribute to a dynamic cybersecurity environment.
