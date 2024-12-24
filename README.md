@@ -1,14 +1,5 @@
-<style>
-body {
-    padding: 20px;
-}
+<div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-</style>
 
 
 # Nick Hodges Portfolio
